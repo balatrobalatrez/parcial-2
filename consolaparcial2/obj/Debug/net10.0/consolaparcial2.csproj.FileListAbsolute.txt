@@ -1,0 +1,6 @@
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\consolaparcial2\obj\Debug\net10.0\consolaparcial2.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\consolaparcial2\obj\Debug\net10.0\consolaparcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\consolaparcial2\obj\Debug\net10.0\consolaparcial2.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\consolaparcial2\obj\Debug\net10.0\consolaparcial2.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\consolaparcial2\obj\Debug\net10.0\consolaparcial2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\consolaparcial2\obj\Debug\net10.0\consolaparcial2.sourcelink.json

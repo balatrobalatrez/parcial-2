@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\discografiaparcial\obj\Debug\net10.0\discografiaparcial.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\discografiaparcial\obj\Debug\net10.0\discografiaparcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\discografiaparcial\obj\Debug\net10.0\discografiaparcial.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\discografiaparcial\obj\Debug\net10.0\discografiaparcial.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\discografiaparcial\obj\Debug\net10.0\discografiaparcial.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\discografiaparcial\obj\Debug\net10.0\discografiaparcial.sourcelink.json
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\discografiaparcial\bin\Debug\net10.0\discografiaparcial.deps.json
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\discografiaparcial\bin\Debug\net10.0\discografiaparcial.dll
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\discografiaparcial\bin\Debug\net10.0\discografiaparcial.pdb
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\discografiaparcial\obj\Debug\net10.0\discografiaparcial.dll
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\discografiaparcial\obj\Debug\net10.0\refint\discografiaparcial.dll
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\discografiaparcial\obj\Debug\net10.0\discografiaparcial.pdb
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\discografiaparcial\obj\Debug\net10.0\ref\discografiaparcial.dll
+C:\Users\lucas\OneDrive\Documentos\GitHub\parcial-2\discografiaparcial\obj\Debug\net10.0\discogra.D27D72C9.Up2Date

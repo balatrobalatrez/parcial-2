@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("consolaparcial2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f56557f481f9b8ddff5962a01f8f9082166ccc8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dee64702f4b79e992abb1d83c7a252d65d641fb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("consolaparcial2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("consolaparcial2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
